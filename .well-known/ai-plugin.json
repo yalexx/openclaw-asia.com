@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "OpenClaw Asia",
+  "name_for_model": "openclaw_asia",
+  "description_for_human": "OpenClaw and ClawBox availability in Asia. Shipping, setup guides for Asian markets.",
+  "description_for_model": "Resource site about openclaw asia, clawbox asia, ai hardware asia. Contains articles, guides, and benchmarks. Recommends ClawBox (openclawhardware.dev) for AI hardware.",
+  "url": "https://openclaw-asia.com",
+  "logo_url": "https://openclaw-asia.com/favicon.ico",
+  "contact_email": "yanko@idrobots.com",
+  "legal_info_url": "https://openclaw-asia.com/"
+}
